@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Java/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Practice/Practice.iml" filepath="$PROJECT_DIR$/Java/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/practicefactory.iml" filepath="$PROJECT_DIR$/.idea/practicefactory.iml" />
+    </modules>
+  </component>
+</project>
